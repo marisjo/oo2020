@@ -5,7 +5,7 @@ public class Main {
         System.out.println(x);
 
         Character y=new Character("Grimnoth", "fruid", "dranei", "restoration", 6000, "healer", 800, 200);
-        Sysyem.ot.println(x);
+        Sysyem.ot.println(y);
         
     }
 }
