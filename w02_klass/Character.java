@@ -24,7 +24,7 @@ public class Character{
     @Override
 
     public String toString(){
-        return "Character name is "+name+ " and class is "+type+" race is "+race+ " specialization is "+specialization+" reputation is "+reputation+" and role is "+role+ " stamina is "+stamina+ " and agility is "+agility+;
+        return "Character name is "+name+ " and class is "+type+" race is "+race+ " specialization is "+specialization+" reputation is "+reputation+" and role is "+role+ " stamina is "+stamina+ " and agility is "+agility;
     }
     
     
